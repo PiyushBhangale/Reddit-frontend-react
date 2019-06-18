@@ -1,6 +1,6 @@
 # Frontend Developer Forum
 
-Browse popular discussions and posts about popular Frontend threads such as JavaScript, React, Web Development, Open Source, Programming and so on.
+Browse popular discussions and posts about popular Frontend threads such as _JavaScript, React, Web Development, Open Source, Programming_ and so on.
 
 ![Giphy](https://media.giphy.com/media/4NtPrzG6Wc45V2m2oA/giphy.gif)
 [Live Demo]()
