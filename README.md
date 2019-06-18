@@ -15,7 +15,7 @@ Install all the required packages/dependencies using npm install
 
 Serve the app to browser
 
-### `npmstart`
+### `npm start`
 
 ## Contributing
 
