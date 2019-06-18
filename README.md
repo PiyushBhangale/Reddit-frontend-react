@@ -24,3 +24,4 @@ Feel free to open issues and pull requests!
 ## To do :
 - [ ] Make the navbar responsive
 - [ ] Add routes
+- [ ] Sorting Option. Sort as Hot,New,Controversial,Rising 
