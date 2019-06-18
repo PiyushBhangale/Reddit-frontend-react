@@ -18,9 +18,12 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://PiyushBhangale.github.io/Reddit-react",
   "description": "Browse popular discussions and posts about popular Frontend threads such as JavaScript, React, Web Development, Open Source, Programming and so on.",
   "main": "index.js",
   "author": "",
