@@ -20,3 +20,6 @@ Serve the app to browser
 ## Contributing
 
 Feel free to open issues and pull requests!
+
+## To do :
+- [ ] Make the navbar responsive
