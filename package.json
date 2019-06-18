@@ -23,7 +23,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://PiyushBhangale.github.io/Reddit-react",
+  "homepage": "https://piyushbhangale.github.io/Reddit-frontend-react/",
   "description": "Browse popular discussions and posts about popular Frontend threads such as JavaScript, React, Web Development, Open Source, Programming and so on.",
   "main": "index.js",
   "author": "",
