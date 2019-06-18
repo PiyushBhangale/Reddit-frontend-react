@@ -23,3 +23,4 @@ Feel free to open issues and pull requests!
 
 ## To do :
 - [ ] Make the navbar responsive
+- [ ] Add routes
